@@ -1,0 +1,13 @@
+{
+  "name": "hyped",
+  "owner": {
+    "name": "Hyped"
+  },
+  "plugins": [
+    {
+      "name": "hyped",
+      "source": "./plugins/hyped",
+      "description": "Required Hyped integration for Claude Code conversations and audio responses"
+    }
+  ]
+}
