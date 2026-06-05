@@ -1,4 +1,5 @@
 ---
+name: hyped-tts
 description: Use when the developer asks you to speak, record audio, send a voice message, or make a response available as audio in Hyped.
 ---
 
