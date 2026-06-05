@@ -1,0 +1,17 @@
+{
+  "name": "hyped",
+  "version": "0.1.0",
+  "description": "Required Hyped integration for Codex conversations and audio responses.",
+  "author": {
+    "name": "Hyped"
+  },
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Hyped",
+    "shortDescription": "Required Hyped conversation and audio instructions.",
+    "longDescription": "Provides required Hyped skills for Codex conversations running inside Hyped.",
+    "developerName": "Hyped",
+    "category": "Productivity",
+    "capabilities": ["Write", "Interactive"]
+  }
+}

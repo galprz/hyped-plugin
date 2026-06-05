@@ -1,0 +1,20 @@
+{
+  "name": "hyped",
+  "interface": {
+    "displayName": "Hyped"
+  },
+  "plugins": [
+    {
+      "name": "hyped",
+      "source": {
+        "source": "local",
+        "path": "./hyped"
+      },
+      "policy": {
+        "installation": "INSTALLED_BY_DEFAULT",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
