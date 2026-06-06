@@ -1,7 +1,7 @@
 {
   "name": "hyped",
   "description": "Required Hyped integration for Claude Code conversations and audio responses.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "skills": "./skills",
   "author": {
     "name": "Hyped"
